@@ -1,27 +1,29 @@
-Prerequisites
+# Prerequisites
 Before you begin, ensure you have the following prerequisites:
 
-Node.js: Install Node.js on your machine if not already installed. You can download it from nodejs.org.
+#### Node.js: Install Node.js on your machine if not already installed. You can download it from nodejs.org.
 
-Code Editor: Choose a code editor or integrated development environment (IDE) of your preference. We recommend Visual Studio Code for a smooth development experience.
+#### Code Editor: Choose a code editor or integrated development environment (IDE) of your preference. We recommend Visual Studio Code for a smooth development experience.
 
-Getting Started
-Clone the Repository
+## Getting Started
 
-bash
+
+### Clone the Repository
+
 Copy code
-git clone https://github.com/your-username/react-hotel-listing.git
-cd react-hotel-listing
-Install Dependencies
+git clone https://github.com/gopal265/Assignment.git
+cd Assigment
 
-bash
+### Install Dependencies
+
 Copy code
 npm install
-Run the Development Server
 
-bash
+### Run the Development Server
+
 Copy code
 npm start
+
 The development server will start, and the application will be accessible at http://localhost:3000.
 
 Explore the Website
