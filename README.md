@@ -29,3 +29,26 @@ The development server will start, and the application will be accessible at htt
 Explore the Website
 
 Open your web browser and navigate to http://localhost:3000 to explore the hotel listing website.
+
+## Includes two websites
+You can see two button each pointing to one fo the websites Car Rental website and Hotel listing Website
+
+### Project Structure
+Assignment/
+  ├── public/
+  │   ├── index.html
+  │   └── ...
+  ├── src/
+  │   ├── components/
+  │   │   ├── SellerApp/
+  │   │   ├── SellerApp2/
+  │   │   └── ...
+  │   ├── pages/
+  │   │   ├── HotelHomejs
+  │   │   ├── CarsHome.js
+  │   │   └── ...
+  │   ├── App.js
+  │   └── ...
+  ├── package.json
+  ├── README.md
+  └── ...
